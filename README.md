@@ -6,7 +6,7 @@
 
 ## 🚀 Демо
 
-[Посмотреть демо](https://c1assifier.github.io//Project-Finder)
+[Посмотреть демо](https://c1assifier.github.io//Project-Finder/)
 
 ---
 
